@@ -1,0 +1,22 @@
+double a1, b1;
+int i1, i2 = 6;
+char c2='Z', f2;
+boolean a, b ,c , d = true, e, f = 5;
+String a2 = "hello" , b2 = "goodbye";
+
+
+
+void boo(int a, int b, String s) {
+
+	if (true) {
+		boo(1,2,"hello");
+		while (false) {
+			soo(true);
+		}
+	}
+	return;
+}
+
+void soo(boolean b) {
+	return;
+}
